@@ -1,3 +1,6 @@
+![fullyfunded](https://user-images.githubusercontent.com/28787937/174456616-afb14e5b-61e2-4928-a858-e691f3d01306.png)
+
+
 ## Welcome! 
 Are you looking for a list of fully funded PhD programs in the US for US Citizens?  I'll be sharing resources on this page, you will need to do your research and check with the institutions and programs 
 
