@@ -1,5 +1,6 @@
 # FullyFundedPhD
 
-Information on fully funded PhD programs in the US for US Citizens. 
+Information on fully funded PhD and Scholarship programs 
 
-International students should check out the [Fulbright Program]([myramade.github.io/fullyfundedPhd](https://fulbrightspecialist.worldlearning.org/))
+Click here to get started
+
