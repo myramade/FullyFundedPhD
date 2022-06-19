@@ -2,5 +2,5 @@
 
 Information on fully funded PhD and Scholarship programs 
 
-Click here to get started
+[Click here](https://myramade.github.io/FullyFundedPhD/) to get started
 
